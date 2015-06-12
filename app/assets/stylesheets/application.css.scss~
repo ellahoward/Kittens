@@ -1,5 +1,5 @@
 $lentil_yellow: #F268AB;
-$lentil_blue: #62998D;
+$lentil_blue: #990012;
 
 @import "lentil";
 
